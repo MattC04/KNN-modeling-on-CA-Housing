@@ -1,4 +1,4 @@
-# California Housing Price Analysis and Prediction
+# KNN-Based Predictive Modeling for California Housing
 
 ## Overview
 This project focuses on the analysis and prediction of housing prices in California using a dataset from the 1990 California housing census. The goal is to provide insights into the factors affecting housing prices and to build predictive models using machine learning algorithms.
@@ -7,7 +7,6 @@ This project focuses on the analysis and prediction of housing prices in Califor
 - [Introduction](#introduction)
 - [Dataset](#dataset)
 - [Installation](#installation)
-- [Usage](#usage)
 - [Data Cleaning and Preprocessing](#data-cleaning-and-preprocessing)
 - [Exploratory Data Analysis](#exploratory-data-analysis)
 - [Model Building and Evaluation](#model-building-and-evaluation)
@@ -43,3 +42,8 @@ To run this project, you need to have Python installed on your system along with
 You can install these dependencies using pip:
 ```sh
 pip install numpy pandas geopandas seaborn matplotlib plotly scikit-learn
+```
+
+## Data Cleaning and Preprocessing
+In this section, I performed various preprocessing steps to prepare the data for further analysis. This included:
+- 
